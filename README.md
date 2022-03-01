@@ -6,6 +6,3 @@
 
 Relies on the popular [HAR](http://www.softwareishard.com/blog/har-12-spec/#request) format to import data and describe HTTP calls.
 
-## License
-
-[MIT](LICENSE) &copy; [Kong](https://www.konghq.com)
